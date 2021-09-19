@@ -2,7 +2,7 @@
  
 - 🔭 Trabalho como Analista de Suporte de Sistemas
 - 🌱 Estudando Java
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela /dela
  
  <div>
   <a href="https://beacons.ai/danielacruz">
