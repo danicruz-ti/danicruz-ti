@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Daniela Cruz
  
-- 🔭 Trabalho como Analista de Suporte de Sistemas
-- 🌱 Estudando Gestão de TI e Análise de Desenvolvimento de Sistemas 
+- 🔭 Trabalho com Gestão de TI no ramo de Transportes desempenhando diversas funções como: Análise de dados, Suporte, Infraestrutura, entre outras.
+- 🌱 Estudando Gestão de TI e outros cursos voltados para Front End e Back End.
 - 😄 Pronouns: ela /dela
  
  <div>
