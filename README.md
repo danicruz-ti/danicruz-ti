@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Daniela Cruz
  
 - 🔭 Trabalho como Analista de Suporte de Sistemas
-- 🌱 Estudando Java
+- 🌱 Estudando Gestão de TI e Análise de Desenvolvimento de Sistemas 
 - 😄 Pronouns: ela /dela
  
  <div>
