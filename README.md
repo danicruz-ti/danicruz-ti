@@ -1,8 +1,15 @@
 ## Oiii! Eu sou a Daniela Cruz
  
-- 🔭 Trabalho com Gestão de TI no ramo de Transportes desempenhando diversas funções como: Análise de dados, Suporte, Infraestrutura, entre outras.
-- 🌱 Estudando Gestão de TI e outros cursos voltados para Front End e Back End.
-- 😄 Pronouns: ela /dela
+Olá, sou a Daniela, formada em Gestão de TI e Redes de Computadores. 
+
+💼 Experiência:
+Sou uma profissional com ampla experiência em Análise de Suporte de Sistemas no setor logístico, atuando com ERP's TMS (ESL Cloud®, Visual Rodopar® e Allisson®), além de forte atuação com integrações (EDI e API), Manipulação de Banco de Dados SQL Server, Desenvolvimento de relatórios em Crystal Reports (SAP) e implantação de sistemas. Conhecimento sólido em infraestrutura (Windows Server, Active Directory), segurança da informação e banco de dados. Possuo perfil analítico, comprometido e orientado à resolução de problemas. 
+ 
+🎓 Educação:
+Atualmente, estou aprofundando meus conhecimentos em Banco de Dados SQL Server, focando em administração, otimização e segurança, com ênfase em T-SQL e técnicas de gestão. 
+
+📧 Contato:
+🔸 danicruz.ti@gmail.com
  
  <div>
   <a href="https://beacons.ai/danielacruz">
