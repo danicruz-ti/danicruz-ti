@@ -8,9 +8,6 @@ Sou uma profissional com ampla experiência em Análise de Suporte de Sistemas n
 🎓 Educação:
 Atualmente, estou aprofundando meus conhecimentos em Banco de Dados SQL Server, focando em administração, otimização e segurança, com ênfase em T-SQL e técnicas de gestão. 
 
-📧 Contato:
-🔸 danicruz.ti@gmail.com
- 
  <div>
   <a href="https://beacons.ai/danielacruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicruz-ti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
