@@ -4,7 +4,7 @@
 Profissional com sólida e ampla experiência na área de Tecnologia da Informação, com atuação estratégica e operacional no segmento logístico. Graduada em Gestão de TI e Redes de Computadores, possuo trajetória consolidada em suporte técnico de nível 2 (N2), com foco na gestão de incidentes e requisições, atendimento ao usuário final e garantia da continuidade dos serviços de TI.
 
 Expertise comprovada em ambientes ERP e TMS, com domínio de sistemas como ESL Cloud, Visual Rodopar e Allisson, atuando na análise de requisitos funcionais, mapeamento de processos, documentação técnica e implantação de sistemas corporativos. Vivência prática em bancos de dados relacionais, com foco em SQL Server, incluindo extração, manipulação e análise de dados, além de avaliação de integrações sistêmicas para assegurar a interoperabilidade entre plataformas distintas.
-
+    
 Possuo perfil analítico, orientado à resolução de problemas de alta complexidade, à eficiência operacional e à excelência no atendimento ao cliente interno, com visão crítica para identificação de oportunidades de melhoria contínua nos processos de tecnologia e logística. Atualmente, estou em processo de aperfeiçoamento técnico contínuo, com ênfase no aprofundamento de conhecimentos em bancos de dados, modelagem relacional e otimização de consultas SQL, visando ampliar a capacidade de suporte a projetos de Business Intelligence, integração de sistemas e tomada de decisão baseada em dados.
 
  <div>
